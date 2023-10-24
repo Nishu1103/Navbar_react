@@ -1,0 +1,86 @@
+{
+  "horror": [
+    {
+      "title": "Book 1",
+      "author": "Author 1",
+      "description": "This is a horror book.",
+      "cost": 10.99
+    },
+    {
+      "title": "Book 2",
+      "author": "Author 2",
+      "description": "Another scary book.",
+      "cost": 12.99
+    }
+  ],
+  "mystery": [
+    {
+      "title": "Mystery Book 1",
+      "author": "Author 3",
+      "description": "A mysterious story.",
+      "cost": 14.99
+    },
+    {
+      "title": "Mystery Book 2",
+      "author": "Author 4",
+      "description": "Solve the enigma of a hidden treasure.",
+      "cost": 11.99
+    }
+  ],
+  "fantasy": [
+    {
+      "title": "Fantasy Book 1",
+      "author": "Author 5",
+      "description": "An enchanting fantasy tale.",
+      "cost": 9.99
+    },
+    {
+      "title": "Fantasy Book 2",
+      "author": "Author 6",
+      "description": "Journey to a magical world.",
+      "cost": 15.99
+    }
+  ],
+  "romance": [
+    {
+      "title": "Romance Book 1",
+      "author": "Author 7",
+      "description": "A love story that tugs at the heartstrings.",
+      "cost": 8.99
+    },
+    {
+      "title": "Romance Book 2",
+      "author": "Author 8",
+      "description": "Passionate romance in a breathtaking setting.",
+      "cost": 10.99
+    }
+  ],
+  "sci-fi": [
+    {
+      "title": "Sci-Fi Book 1",
+      "author": "Author 9",
+      "description": "Explore the wonders of the future.",
+      "cost": 13.99
+    },
+    {
+      "title": "Sci-Fi Book 2",
+      "author": "Author 10",
+      "description": "A journey through time and space.",
+      "cost": 11.99
+    }
+  ],
+  "adventure": [
+    {
+      "title": "Adventure Book 1",
+      "author": "Author 11",
+      "description": "Embark on an epic quest.",
+      "cost": 12.99
+    },
+    {
+      "title": "Adventure Book 2",
+      "author": "Author 12",
+      "description": "Discover hidden treasures in uncharted lands.",
+      "cost": 14.99
+    }
+  ]
+}
